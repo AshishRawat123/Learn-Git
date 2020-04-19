@@ -1,4 +1,1 @@
-
-console.log("First file first commit 19 april 2pm")
-console.log("First file Second commit 19 april 2:06pm")
-console.log("First file Third commit 19 april 2:15pm")
+console.log("rebase 1")
